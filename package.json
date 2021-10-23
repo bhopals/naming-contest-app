@@ -4,9 +4,10 @@
   "description": "Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node server.js --ignore public/",
+    "start": "nodemon --exec babel-node server.mjs --input-type module --ignore public/",
     "dev": "webpack -wd"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jscomplete/learn-fullstack-javascript.git"
