@@ -1,0 +1,22 @@
+{
+  "name": "naming-contest-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhopals/naming-contest-app.git"
+  },
+  "author": "Bhopal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhopals/naming-contest-app/issues"
+  },
+  "homepage": "https://github.com/bhopals/naming-contest-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
