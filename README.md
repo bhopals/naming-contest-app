@@ -1,2 +1,7 @@
-# learn-fullstack-javascript
-Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
+## Naming Contest APP
+An Application to creating an Contest APP
+
+##  Stack
+- MongoDB 
+- Node.js 
+- React.js

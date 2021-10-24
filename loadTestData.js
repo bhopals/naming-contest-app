@@ -4,7 +4,6 @@ import config from './config';
 
 MongoClient.connect(config.mongodbUri, (err, db) => {
   assert.equal(null, err);
-
   db.collection('contests').insertMany([
     { id: 1, categoryName: 'Business/Company', contestName: 'Cognitive Building Bricks',
       description: `
